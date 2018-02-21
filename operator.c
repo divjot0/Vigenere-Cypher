@@ -2,5 +2,5 @@
 
 int main(){
 //we can contribute here
-  //ohoho/hohoh
+  //najanaja
 return 0;}
