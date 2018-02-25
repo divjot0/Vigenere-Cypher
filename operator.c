@@ -2,8 +2,7 @@
 
 int main(){
      
-     
-//we can contribute here
+    //we can contribute here
     //its amazing
      
   
