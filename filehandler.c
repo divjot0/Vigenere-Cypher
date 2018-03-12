@@ -1,6 +1,6 @@
 #include<stdio.h>
 //This will start here.
-//This will contain.
+//This will contain Vigenere-Cypher algorithm.
 int main()
 {
 
