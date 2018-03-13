@@ -18,7 +18,7 @@ int main(){
       it makes recovering the plaintext slightly more difficult... */    
    /* ...and my goal is not to create "production-quality" code =) */    
    if (ch!='\n') {      
-     fprintf(fpOut, "%02X", ch ^ key[i % KEY_LENGTH]); // ^ is logical XOR          
+     fprintf(fpOut, "%02X", ch ^ key[i % KEY_LENGTH]); // ^ is XOR          
      i++;      }    
   }   
  
