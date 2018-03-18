@@ -8,7 +8,7 @@ int main(){
   /*  Of course, I did not use the all-0s key to encrypt. */
 
   fpIn = fopen("ptext.txt","r");  
-  fpOut = fopen("ctext.txt", "w");
+  fpOut = fopen("ctext.txt","w");
   i=0;  
   while (fscanf(fpIn, "%c", &ch) != EOF) {
     /* avoid encrypting newline characters */      
