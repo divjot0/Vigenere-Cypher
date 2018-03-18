@@ -5,7 +5,7 @@ int main(){
   unsigned char ch;  
   FILE *fpIn, *fpOut;  
   int i;  unsigned char key[KEY_LENGTH] = {0x02 ,0x1A, 0xFB, 0xAC, 0xA9, 0x05, 0xFF, 0xAA, 0xBD};
-  /*  of course, I did not use the all-0s key to encrypt */
+  /*  of course, I did not use the all-0s key to encrypt. */
 
   fpIn = fopen("ptext.txt", "r");  
   fpOut = fopen("ctext.txt", "w");
