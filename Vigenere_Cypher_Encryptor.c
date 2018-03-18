@@ -10,7 +10,7 @@ int main(){
   fpIn = fopen("ptext.txt","r");  
   fpOut = fopen("ctext.txt","w");
   i=0;  
-  while (fscanf(fpIn, "%c", &ch) != EOF) {
+  while (fscanf(fpIn, "%c", &ch)!= EOF) {
     /* avoid encrypting newline characters */      
    /* In a "real-world" implementation of the Vigenere cipher,        
       every ASCII character in the plaintext would be encrypted.       
