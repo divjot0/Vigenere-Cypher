@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<std
+#include<stdlib
 
 int main(){
     //we can contribute here    
