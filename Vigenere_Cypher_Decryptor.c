@@ -88,8 +88,7 @@ int main(){
         for (int k = 0; k < 256; ++k)
         {
             A[i] = f[k]*f[k] + A[i];
-        }
-//      printf("A[i] %f\n", A[i]);
+        }//      printf("A[i] %f\n", A[i]);
     }
 
     int length = 0;
