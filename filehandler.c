@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<stdli
+#include<stdlib
 //This will contain Vigenere-Cypher algorithm.
 int main()
 {
