@@ -15,8 +15,7 @@ int main(){
     FILE *fpIn, *fpOut;  
     int i;  unsigned char key[KEY_LENGTH] = {0x00, 0x00};
 
-    fpIn = fopen("ctext.txt", "r");  
-//  fpOut = fopen("ptext.txt", "w");
+    fpIn = fopen("ctext.txt", "r");  //  fpOut = fopen("ptext.txt", "w");
     i=0;  
     while (fscanf(fpIn, "%c", &ch) != EOF) 
     {
