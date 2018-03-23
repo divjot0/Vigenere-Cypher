@@ -79,7 +79,7 @@ int main(){
             f[arr[j]]++;
             count++;
         }
- //     printf("count is %d\n", count);
+ /*     printf("count is %d\n", count);*/
         for (int i = 0; i < 256; ++i)
         {
             f[i] = f[i]/(float)count;
