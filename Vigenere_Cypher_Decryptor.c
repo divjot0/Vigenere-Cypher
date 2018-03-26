@@ -95,8 +95,7 @@ int main(){
     float max_ = 0;
 
     for (int i = 0; i < 13; ++i)
-    {
-//      printf("%f\n", A[i]);
+    {//      printf("%f\n", A[i]);
         if (A[i] > max_)
         {
             max_ = A[i];
