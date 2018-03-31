@@ -3,7 +3,7 @@
 //This will contain Vigenere-Cypher algorithm.
 int main()
 {
-FILE *fp;
+FILE *fp; //File 
 
 return 0;
 }
