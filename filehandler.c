@@ -3,7 +3,7 @@
 //This will contain Vigenere-Cypher algorithm.
 int main()
 {
-FILE *fp; //File pointer
+FILE *fp; //File pointer to 
 
 return 0;
 }
