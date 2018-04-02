@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#incl
+#inclu
 
 int main(){
     //we can contribute here    
