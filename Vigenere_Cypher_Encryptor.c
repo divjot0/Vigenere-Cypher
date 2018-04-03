@@ -1,4 +1,4 @@
-#include <stdio.h>  //Including the head
+#include <stdio.h>  //Including the header
 #include<stdlib.h>
 #include<string.h>
 #define KEY_LENGTH 9 // Can be anything from 1 to 13
