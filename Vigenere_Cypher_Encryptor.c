@@ -24,7 +24,7 @@ int main(){
      i++;      }    
   }   
  
-  fclose(fpIn);  //closing the
+  fclose(fpIn);  //closing the f
   fclose(fpOut);  
   return 0;
 } 
