@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include<st
 
 int main(){
     //we can contribute here    
