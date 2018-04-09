@@ -5,6 +5,6 @@
 int main()
 {
 FILE *fp; //File pointer to open the given file.
-
+fp = 
 return 0;
 }
