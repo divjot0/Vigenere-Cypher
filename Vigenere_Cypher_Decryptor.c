@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include
+#include <stdlib.h>
 #define KEY_LENGTH 2
 /*Can be anything from 1 to 13*/
 
