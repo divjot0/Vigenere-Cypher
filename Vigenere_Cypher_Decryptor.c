@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h
+#include
 #define KEY_LENGTH 2
 /*Can be anything from 1 to 13*/
 
