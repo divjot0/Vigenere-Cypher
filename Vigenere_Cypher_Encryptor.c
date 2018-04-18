@@ -1,5 +1,5 @@
 #include <stdio.h>  //Including the header files.
-#include<
+#include <stdlib
 #define KEY_LENGTH 9 // Can be anything from 1 to 13
 
 int main(){  
